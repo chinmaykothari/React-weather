@@ -3,7 +3,8 @@ Features
 - Users can search for weather conditions of any city in the world.
 - The app displays the current weather conditions, including temperature and weather description.
 - The app utilizes the SheCodes Weather API to fetch weather data.
-- This app also has Geolocation that is the browser will prompt the user to grant permission to access their location and will display their location's weather as default weather
+- This app also has Geolocation that is the browser will prompt the user to grant permission to access their location and will display their location's weather as default weather.
+- This app also provides 5-Day Forecast of the city entered in the search bar.
 
 
 # Technologies & Tools Used
