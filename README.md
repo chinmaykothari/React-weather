@@ -25,3 +25,7 @@ To use this app, you can follow these steps:
 - Open your browser and navigate to `http://localhost:3000` to use the app.
 
 To use the app, simply type the name of the city you want to search for in the search bar and press Enter. The app will display the current weather conditions for the searched city.
+# Screenshot
+This is the sample output where is Geolocation you can see the default weather
+![Screenshot 2024-07-04 at 6 07 31 PM](https://github.com/chinmaykothari/React-weather/assets/97662896/6efc423b-83ad-478b-8de2-9f4b84ddc3b0)
+
